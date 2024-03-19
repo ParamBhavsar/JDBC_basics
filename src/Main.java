@@ -15,7 +15,7 @@ public class Main {
                     "root",
                     "param1234"
             );
-            System.out.println("connection established yay!!");
+            System.out.println("connection established !!");
             System.out.println(connection);
         }
         catch (Exception e){
